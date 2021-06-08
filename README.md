@@ -17,6 +17,7 @@ dcp.py and rpc.py contain the implementation for the DCP and RPC privimites, res
 
 I think you need to consult the profinet documentation to find out what exactly they are used for.
 
-
-- ho dovuto installare flask (sudo pip3 install flask)
-- sudo python3 main.py discover -i enp4s0f0 
+- gira su python3
+- ho dovuto installare pip3 (_sudo apt install python3-venv python3-pip_)
+- ho dovuto installare flask (_sudo pip3 install flask_)
+- _sudo python3 main.py discover -i enp4s0f0 _
