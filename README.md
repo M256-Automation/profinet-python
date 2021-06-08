@@ -20,4 +20,4 @@ I think you need to consult the profinet documentation to find out what exactly 
 - gira su python3
 - ho dovuto installare pip3 (_sudo apt install python3-venv python3-pip_)
 - ho dovuto installare flask (_sudo pip3 install flask_)
-- _sudo python3 main.py discover -i enp4s0f0 _
+- posso lanciare un discovery (_sudo python3 main.py discover -i enp4s0f0_)
