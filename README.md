@@ -19,4 +19,4 @@ I think you need to consult the profinet documentation to find out what exactly 
 
 - gira su python3
 - posso lanciare un discovery (_sudo python3 main.py discover -i enp4s0f0_)
-- posso lanciarlo anche su PLCnext ma richiede utente root
+- posso lanciarlo anche su PLCnext ma richiede utente root (_root@axcf1152:/opt/plcnext/profinet-python# python3 main.py discover -i eth0_)
